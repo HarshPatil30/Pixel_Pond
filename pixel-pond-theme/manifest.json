@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Pixel Pond Dark",
+  "version": "1.0.0",
+  "description": "Near-black Chrome theme that blends the tabs, address bar and bookmarks bar into the Pixel Pond new tab.",
+  "theme": {
+    "colors": {
+      "frame": [10, 11, 14],
+      "frame_inactive": [10, 11, 14],
+      "frame_incognito": [10, 11, 14],
+      "frame_incognito_inactive": [10, 11, 14],
+      "toolbar": [17, 18, 23],
+      "toolbar_text": [210, 213, 219],
+      "toolbar_button_icon": [190, 194, 201],
+      "tab_text": [232, 234, 237],
+      "tab_background_text": [140, 145, 155],
+      "tab_background_text_inactive": [120, 125, 135],
+      "bookmark_text": [196, 200, 206],
+      "omnibox_background": [30, 32, 38],
+      "omnibox_text": [232, 234, 237],
+      "background_tab": [10, 11, 14],
+      "background_tab_inactive": [10, 11, 14],
+      "ntp_background": [6, 7, 10],
+      "ntp_text": [232, 234, 237],
+      "ntp_link": [138, 180, 248]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom"
+    }
+  }
+}

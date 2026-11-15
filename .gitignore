@@ -1,0 +1,7 @@
+# local test files, not part of the extension
+demo/
+comparison/
+.claude/
+
+# Chrome writes this cache when a theme is loaded unpacked
+Cached Theme.pak

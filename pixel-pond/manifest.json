@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Pixel Pond New Tab",
+  "version": "1.0.0",
+  "description": "Replaces Chrome's new tab with a dark page full of drifting pixel animals.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "permissions": ["topSites", "search", "favicon"]
+}
